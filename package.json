@@ -1,0 +1,23 @@
+{
+  "name": "easy-fetch-llm",
+  "version": "1.0.6",
+  "description": "easily fetch llm of Qwen、Qianfan、Hunyuan、Deepseek in Web or Node Environment .",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ai-365/easy-fetch-llm.git"
+  },
+  "keywords": [
+    "llm、AI、Transformer、Qwen、ChatGPT、Deepseek、Web、Node.js、npm"
+  ],
+  "author": "ai-365@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ai-365/easy-fetch-llm/issues"
+  },
+  "homepage": "https://github.com/ai-365/easy-fetch-llm#readme"
+}
